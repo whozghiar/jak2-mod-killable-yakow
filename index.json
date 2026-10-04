@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "Killable Yakow Source",
-  "lastUpdated": "2026-10-02T22:58:43Z",
+  "lastUpdated": "2026-10-04T17:51:12Z",
   "mods": {
     "killable-yakow": {
       "displayName": "Killable Yakow",
-      "description": "This mod for Jak II makes the peaceful Yakows on the farm vulnerable to damage and places them under the direct protection of law enforcement. Striking one of these animals instantly triggers a Level 1 alert from the Krimzon Guard, while killing one is accompanied by a purple dissolution visual effect and releases six Black Eco pills",
+      "description": "Makes the peaceful Yakow farm animals killable and protected by Krimzon law. Striking a Yakow immediately triggers a Krimzon Guard alert (\"Hands off the cow!\"), while defeating it drops dark eco pills with authentic death VFX.",
       "authors": [
         "whozghiar"
       ],
